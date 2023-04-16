@@ -1,0 +1,10 @@
+D:\lab works\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+D:\lab works\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+D:\lab works\GAME\bin\Debug\GAME.exe.config
+D:\lab works\GAME\bin\Debug\GAME.exe
+D:\lab works\GAME\bin\Debug\GAME.pdb
+D:\lab works\GAME\bin\Debug\EZInput.dll
+D:\lab works\GAME\bin\Debug\EZInput.xml
+D:\lab works\GAME\obj\Debug\GAME.csproj.CopyComplete
+D:\lab works\GAME\obj\Debug\GAME.exe
+D:\lab works\GAME\obj\Debug\GAME.pdb

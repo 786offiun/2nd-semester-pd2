@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\BUSINESS APPLICATION\obj\Debug\BUSINESS APPLICATION.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BUSINESS APPLICATION\obj\Debug\BUSINESS APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BUSINESS APPLICATION\bin\Debug\BUSINESS APPLICATION.exe.config
+C:\Users\HP\source\repos\BUSINESS APPLICATION\bin\Debug\BUSINESS APPLICATION.exe
+C:\Users\HP\source\repos\BUSINESS APPLICATION\bin\Debug\BUSINESS APPLICATION.pdb
+C:\Users\HP\source\repos\BUSINESS APPLICATION\obj\Debug\BUSINESS APPLICATION.exe
+C:\Users\HP\source\repos\BUSINESS APPLICATION\obj\Debug\BUSINESS APPLICATION.pdb
